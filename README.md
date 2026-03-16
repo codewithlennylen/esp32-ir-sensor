@@ -1,5 +1,5 @@
-# esp32-ir-sensor
-MH-Series IR Sensor on the ESP32S
+# ESP32 IR Sensor Test
+TCRT5000 IR Sensor Module on the ESP32S
 
 
 
