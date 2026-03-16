@@ -2,7 +2,7 @@
 
 
 const int d0Pin = 14; // Digital Output pin
-const int a0Pin = 12; // Analog Output pin
+const int a0Pin = 36; // Analog Output pin (Input only pin)
 
 byte d0Read;
 uint16_t a0Read;
