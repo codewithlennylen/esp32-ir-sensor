@@ -1,0 +1,14 @@
+{
+  "folders": [
+	{
+		"path": ".."
+	},
+	{
+		"name": "esp32_ir",
+		"path": "."
+	}
+],
+  "settings": {
+    "ROS2.distro": "jazzy"
+  }
+}
