@@ -2,6 +2,11 @@
 MH-Series IR Sensor on the ESP32S
 
 
+
+### Sample Output
+<img width="169" height="141" alt="image" src="https://github.com/user-attachments/assets/6ceaa186-dc48-4710-affa-f46946d0e66a" />
+
+
 ### References
 
 - [NodeMCU ESP32S Pinout](https://mischianti.org/wp-content/uploads/2024/02/ESP32-NODEMCU-ESP-32S-Kit-pinout-high-res-mischianti.png)
